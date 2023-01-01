@@ -1,5 +1,4 @@
 
-</head>
 <body>
 <title>Happy New Year 2023</title>
 <div class="loading">
@@ -217,4 +216,4 @@
   mix-blend-mode: difference;
 }</style>
 </body>
-</html>
+
